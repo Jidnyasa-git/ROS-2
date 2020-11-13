@@ -1,12 +1,12 @@
 # ROS-2 Resources List
 
 ### Table of Contents
-1. [Documentations](https://github.com/Jidnyasa-git/ROS-2/new/master?readme=1#documentations)
-2. [Books](https://github.com/Jidnyasa-git/ROS-2/new/master?readme=1#books)
-3. [Courses](https://github.com/Jidnyasa-git/ROS-2/new/master?readme=1#courses)
-4. [YouTube Channel](https://github.com/Jidnyasa-git/ROS-2/new/master?readme=1#youtube-channel)
-5. [GitHub Repositories](https://github.com/Jidnyasa-git/ROS-2/new/master?readme=1#github-repositories)
-6. [Projects](https://github.com/Jidnyasa-git/ROS-2/new/master?readme=1#projects)
+1. [Documentations](https://github.com/Jidnyasa-git/ROS-2#documentations)
+2. [Books](https://github.com/Jidnyasa-git/ROS-2#books)
+3. [Courses](https://github.com/Jidnyasa-git/ROS-2#courses)
+4. [YouTube Channel](https://github.com/Jidnyasa-git/ROS-2#youtube-channel)
+5. [GitHub Repositories](https://github.com/Jidnyasa-git/ROS-2#github-repositories)
+6. [Projects](https://github.com/Jidnyasa-git/ROS-2#projects)
 
 ### Documentations
 * [ROS2 Official Documentation](https://index.ros.org/doc/ros2/)
